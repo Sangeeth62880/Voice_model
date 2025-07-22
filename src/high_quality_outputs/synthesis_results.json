@@ -1,0 +1,62 @@
+[
+  {
+    "name": "neutral_original",
+    "file": "high_quality_outputs/damus_neutral_original.wav",
+    "duration": 4.0,
+    "quality": {
+      "signal_power": 0.021934866227165263,
+      "dynamic_range": 1.6871319877665605,
+      "brightness": 2396.8362939637623
+    },
+    "type": "neutral",
+    "style": "original"
+  },
+  {
+    "name": "neutral_concatenative",
+    "file": "high_quality_outputs/damus_neutral_concatenative.wav",
+    "duration": 4.0,
+    "quality": {
+      "signal_power": 0.015382616134733585,
+      "dynamic_range": 1.6560106269967059,
+      "brightness": 1815.733737625392
+    },
+    "type": "neutral",
+    "style": "concatenative"
+  },
+  {
+    "name": "neutral_morphed",
+    "file": "high_quality_outputs/damus_neutral_morphed.wav",
+    "duration": 4.0,
+    "quality": {
+      "signal_power": 0.017331694312595052,
+      "dynamic_range": 1.6907527139248246,
+      "brightness": 2689.1259229132193
+    },
+    "type": "neutral",
+    "style": "morphed"
+  },
+  {
+    "name": "high_energy_original",
+    "file": "high_quality_outputs/damus_high_energy_original.wav",
+    "duration": 3.0,
+    "quality": {
+      "signal_power": 0.012760747153605112,
+      "dynamic_range": 1.6616233436453882,
+      "brightness": 2704.602569201458
+    },
+    "type": "high_energy",
+    "style": "original"
+  },
+  {
+    "name": "bright_concatenative",
+    "file": "high_quality_outputs/damus_bright_concatenative.wav",
+    "duration": 3.0,
+    "quality": {
+      "signal_power": 0.023365016004146182,
+      "dynamic_range": 1.6124915073380117,
+      "brightness": 1768.664315218951
+    },
+    "type": "bright",
+    "style": "concatenative"
+  }
+]
